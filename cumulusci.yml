@@ -4,6 +4,7 @@ project:
     package:
         name: Food-Bank
         api_version: '50.0'
+        namespace: mlcumulusci1
     git:
     source_format: sfdx
 
